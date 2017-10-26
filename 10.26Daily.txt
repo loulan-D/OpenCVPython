@@ -1,0 +1,5 @@
+1.cv2.imread()的参数：
+--路径；
+--cv2.IMREAD_COLOR:读入一副彩色图像。图像的透明度会被忽略，默认参数
+--cv2.IMREAD_GRAYSCALE:以灰度模式读入图像
+2.

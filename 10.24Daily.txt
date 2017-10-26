@@ -1,0 +1,20 @@
+1.可以使用 Mysql 存储数据，使用 R 分析数据，使用 matplotlib 展示数据，使用
+OpenGL 进行 3D 建模，使用 Qt 构建漂亮的 GUI。而 Python 可以将他们
+联合在一起构建一个强大的工作流。
+2.OpenCV（Open Source Computer Vision Library）
+3."D:\BaiduNetdiskDownload\软件安装包\opencv_python-3.3.0+contrib-cp36-none-win_amd64.whl"
+4.anaconda 中python的多版本切换问题
+conda info --envs       //python的环境目录
+conda create --name python2 python2 =2.7     //基于python2.7创建一个名为python2的环境
+activate  python2    //激活python2环境
+activate  python2    //切换到python2环境
+deactivate python2   //释放python环境  到python3环境
+---------------------------------------------------------------
+在一个环境中：安装第三方包
+conda install numpy
+conda list
+conda update numpy
+5.
+Python内置了id函数，可以返回一个对象的地址，用id函数可以让我们知道每个变量指向的是不是同一个值
+
+
